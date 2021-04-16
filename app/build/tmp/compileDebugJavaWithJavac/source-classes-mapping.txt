@@ -1,0 +1,4 @@
+com/marc/miniactivity3/BuildConfig.java
+ com.marc.miniactivity3.BuildConfig
+com/marc/miniactivity3/MainActivity.java
+ com.marc.miniactivity3.MainActivity

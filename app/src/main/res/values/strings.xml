@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MiniActivity3</string>
+    <string name="autolink">http://ww.udl.cat</string>
+    <string name="epstitul">Conociendo a fondo la EPS</string>
+    <string name="webacces">Acceso a la web:</string>
+    <string name="url">URL</string>
+    <string name="google">Google</string>
+    <string name="llamar">Llamar</string>
+    <string name="marcar">Marcar</string>
+    <string name="telfcontact">Telf de contacto: 666 666 666</string>
+    <string name="sms">Enviar SMS</string>
+    <string name="textsmsini">SMS telf: 666 666 666</string>
+    <string name="textemail">Email: marc-saba@hotmail.com</string>
+    <string name="email">Enviar EMAIL</string>
+    <string name="images2">Galeria imágenes</string>
+    <string name="image">Image from gallery</string>
+    <string name="contacts">Acceder contactos</string>
+    <string name="clickar_obtenir">Clickar obtenir</string>
+    <string name="button_pick">Button pick</string>
+</resources>
